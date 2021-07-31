@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "com/l3/src"
+    ],
+    "cSpell.words": [
+        "Birthdate"
+    ]
+}
